@@ -52,7 +52,7 @@ npm start
 Open [http://localhost:8080/](http://localhost:8080/) in your browser.
 
 ### Deployment
-The API is deployed at: [your-deployed-url]
+The API is deployed at: [https://hng-stage-0-public-api.onrender.com/]
 
 ### Contribution
 Feel free to fork and submit PRs.
