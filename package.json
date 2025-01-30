@@ -1,0 +1,21 @@
+{
+  "name": "hng-stage-0-public-api",
+  "version": "1.0.0",
+  "description": "a public API that returns three key pieces of information:  Your registered email (from HNG12 Slack). The current UTC datetime in ISO 8601 format. The GitHub URL of the project’s codebase.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "dev": "nodemon server.js",
+    "start:dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "nodemon": "^3.1.9"
+  }
+}
